@@ -1,10 +1,11 @@
-package com.ev.spring.sprinboot.datajpa.dao;
+package com.ev.springdatarest.dao;
 
 
 
 
 
-import com.ev.spring.sprinboot.datajpa.entity.Employee;
+
+import com.ev.springdatarest.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
